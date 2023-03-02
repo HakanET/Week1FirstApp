@@ -1,0 +1,15 @@
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\bin\Debug\net6.0\Weak1FirstApp.exe
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\bin\Debug\net6.0\Weak1FirstApp.deps.json
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\bin\Debug\net6.0\Weak1FirstApp.runtimeconfig.json
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\bin\Debug\net6.0\Weak1FirstApp.dll
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\bin\Debug\net6.0\Weak1FirstApp.pdb
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\Weak1FirstApp.csproj.AssemblyReference.cache
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\Weak1FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\Weak1FirstApp.AssemblyInfoInputs.cache
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\Weak1FirstApp.AssemblyInfo.cs
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\Weak1FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\Weak1FirstApp.dll
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\refint\Weak1FirstApp.dll
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\Weak1FirstApp.pdb
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\Weak1FirstApp.genruntimeconfig.cache
+C:\Users\Hakan Efe\source\repos\Weak1FirstApp\Weak1FirstApp\obj\Debug\net6.0\ref\Weak1FirstApp.dll
