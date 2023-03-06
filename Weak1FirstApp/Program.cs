@@ -1,4 +1,3 @@
-﻿string MyName = "Hakan Efe";
-String Surname = "Türkmen";
-Console.WriteLine($"Hello {MyName} {Surname}");
-  
+﻿using System.Net.Security;
+
+Console.WriteLine("hello , world");
